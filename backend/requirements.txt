@@ -1,0 +1,25 @@
+# D:\4-2026\backend\requirements.txt
+# MERGE: fyp\requirements.txt + fastapi, uvicorn, pydantic-settings
+
+# FastAPI
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# PSL ML core (from fyp\requirements.txt)
+mediapipe==0.10.9
+numpy>=1.21.0,<1.25.0
+opencv-python>=4.5.0,<4.9.0
+tensorflow>=2.10.0,<2.14.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+pandas>=1.3.0
+imutils>=0.5.0
+h5py>=3.7.0
+Pillow>=9.0.0
+pygame>=2.1.0
+pyttsx3>=2.90
+edge-tts>=6.1.9
+protobuf>=3.20.0,<5.0.0

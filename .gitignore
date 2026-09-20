@@ -1,0 +1,49 @@
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.venv/
+*.egg
+
+# ── Environment & secrets ────────────────────────────────────────────────────
+backend/.env
+*.env
+.env.*
+
+# ── Large data / media (use Git LFS or share separately) ────────────────────
+backend/data/guide/
+backend/data/guide_labeled/
+backend/data/datasets/
+backend/data/psl_keypoints/
+# backend/data/db/
+backend/data/tts_cache/
+backend/Keypoints/
+
+# ── Editor & IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# ── Next.js / Node ───────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/tsconfig.tsbuildinfo
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+error.log
+*.log
+.DS_Store
+Thumbs.db

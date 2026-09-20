@@ -39,6 +39,8 @@ Not included here (see the main repo instead): Google sign-in, dashboard/streaks
 
 ## Getting Started
 
+> Looking for a more detailed, step-by-step walkthrough (including common errors)? See [HOW_TO_RUN.md](HOW_TO_RUN.md).
+
 ### Prerequisites
 
 - Python 3.9–3.11 (TensorFlow/MediaPipe don't yet support 3.12+)

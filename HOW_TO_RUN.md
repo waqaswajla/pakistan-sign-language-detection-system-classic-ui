@@ -10,8 +10,8 @@ This project has two parts that must both be running at the same time, in **two 
 ## 1. Clone the repository
 
 ```
-git clone https://github.com/waqaswajla/pakistan-sign-language-detection-system-classic-ui.git
-cd pakistan-sign-language-detection-system-classic-ui
+git clone https://github.com/waqaswajla/linguasign-sign-to-speech-converter.git
+cd linguasign-sign-to-speech-converter
 ```
 
 ---
@@ -55,7 +55,7 @@ You should see `Uvicorn running on http://127.0.0.1:8000`. Leave this terminal o
 Open a **new** terminal (no conda/Python environment needed here — this is Node.js).
 
 ```
-cd pakistan-sign-language-detection-system-classic-ui\frontend
+cd linguasign-sign-to-speech-converter\frontend
 npm install
 npm run dev
 ```

@@ -50,8 +50,8 @@ Not included here (see the main repo instead): Google sign-in, dashboard/streaks
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/waqaswajla/pakistan-sign-language-detection-system-classic-ui.git
-cd pakistan-sign-language-detection-system-classic-ui
+git clone https://github.com/waqaswajla/linguasign-sign-to-speech-converter.git
+cd linguasign-sign-to-speech-converter
 ```
 
 ### 2. Set up the backend

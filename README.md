@@ -6,6 +6,8 @@ This snapshot is kept for reference â€” to show the project's design evolution â
 
 **Looking for the actively maintained, full-featured version? Go to [pakistan-sign-language-detection-system](https://github.com/waqaswajla/pakistan-sign-language-detection-system).**
 
+![LinguaSign Project Poster](docs/linguasign-poster.png)
+
 ![Home](frontend/public/images/screenshot-home.png)
 
 ![Sign Detection](frontend/public/images/screenshot-sign.png)
